@@ -1,0 +1,5 @@
+#profile_tbl td, th{
+    border-top: none;
+    vertical-align: inherit;
+    font-size: 15px;
+}

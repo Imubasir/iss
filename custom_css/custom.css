@@ -1,0 +1,97 @@
+.navbar {
+    font-weight: 400;
+    transition: background 0.25s ease;
+    -webkit-transition: background 0.25s ease;
+    -moz-transition: background 0.25s ease;
+    -ms-transition: background 0.25s ease;
+    background: url(../images/other/navbar-cover.jpg) center center no-repeat;
+    background-size: cover;
+    height: 120px;
+    width: auto;
+}
+
+.auth .auth-form-light {
+    background: #ffffff4f;
+}
+
+.data-icon {
+    display: inline-block;
+    position: absolute;
+    top: 15px;
+    font-size: 50px;
+    float: right;
+    margin-left: 70%;
+    width: 25%;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.data-icon-color1 {
+    box-shadow: 1px 1px 11px 5px #7d8ac9bf;
+    background: #e4e4ed;
+}
+
+.data-icon-color2 {
+    box-shadow: 0 0 10px 5px rgb(122 0 255 / 35%);
+    background: #7a00ff;
+}
+
+.data-icon-color3 {
+    box-shadow: 0 0 10px 5px rgb(255 66 15 / 35%);
+    background: #ff420f;
+}
+
+.data-icon-color4 {
+    box-shadow: 0 0 10px 5px rgb(0 182 122 / 35%);
+    background: #00b67a;
+}
+
+#data_sum .data-icon:second-child {
+    color: red;
+}
+.data-content {
+/*    margin-left: 40px;*/
+}
+
+.data-meta {
+    font-size: 10px;
+    color: #b5aeae;
+}
+
+.divider {
+    margin: 0;
+    width: 70%;
+    background-color: #0e4ad185;
+}
+
+.form-group {
+    margin-bottom: 0.5rem;
+}
+
+label {
+    font-weight: bold;
+    color: #4e5162a1;
+}
+
+.left-align {
+    text-align: left;
+}
+
+.notify_header {
+    background: #424b661f;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.notify_content {
+    padding: 10px;
+    border-bottom: 1px solid #a4a3af;
+    margin: 10px;
+}
+
+table.dataTable td, .table td {
+    vertical-align: middle;
+    line-height: 1;
+    padding: 0.5rem 0.9375rem;
+    text-transform: uppercase;
+}

@@ -1,0 +1,18 @@
+#print_div {
+    font-family: 'new times roman';
+}
+.inner_tbl td{
+	border: none;
+	padding: 3px;
+}
+
+.modal-lg {
+    max-width: 990px;
+}
+
+.inner_tbl .inner_thead th {
+	border-top: none;
+    vertical-align: bottom;
+    padding: 0;
+    border-bottom: 2px solid black;
+}
